@@ -1,0 +1,11 @@
+{
+  "name": "ngi",
+  "version": "1.0.0",
+  "description": "NGI developer tooling — PR review automation and team workflows",
+  "skills": [
+    {
+      "name": "pr-review",
+      "path": "skills/ngi/pr-review.md"
+    }
+  ]
+}
